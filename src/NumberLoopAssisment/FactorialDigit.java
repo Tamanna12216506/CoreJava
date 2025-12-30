@@ -26,6 +26,8 @@ public class FactorialDigit {
 			fact(rem);
 			n=n/10;
 		}
+		sc.close();
+
 
 	}
 

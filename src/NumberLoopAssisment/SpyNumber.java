@@ -21,6 +21,7 @@ public class SpyNumber {
 		}else {
 			System.out.print("Input is not a Spy Number.");
 		}
+		sc.close();
 
 	}
 

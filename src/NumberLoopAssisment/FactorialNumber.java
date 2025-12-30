@@ -14,6 +14,8 @@ public class FactorialNumber {
 			i++;
 		}
 		System.out.println("Factorial of number "+n+" is "+fact);
+		sc.close();
+
 	}
 
 }

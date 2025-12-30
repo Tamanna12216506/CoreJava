@@ -16,6 +16,7 @@ public class ProductDigit {
 			n=n/10;
 		}
 		System.out.println(product);
+		sc.close();
 
 	}
 

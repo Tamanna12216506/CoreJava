@@ -19,6 +19,8 @@ public class StartPattern3 {
 			}
 			System.out.println();
 		}
+		sc.close();
+
 	}
 
 }

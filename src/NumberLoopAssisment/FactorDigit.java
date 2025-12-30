@@ -27,6 +27,7 @@ public class FactorDigit {
 			factornum(rem);
 			n = n/10;
 		}
+		sc.close();
 
 	}
 

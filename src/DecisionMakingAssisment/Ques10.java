@@ -33,6 +33,7 @@ public class Ques10 {
 			System.out.println("Enter valid input");
 		
 		}
+		sc.close();
 		}
 
 }

@@ -25,6 +25,8 @@ public class SunnyQuestion {
 			n=n/10;
 		}
 		System.out.println("Is sunny number: "+(num==sum));
+		sc.close();
+
 	}
 
 }

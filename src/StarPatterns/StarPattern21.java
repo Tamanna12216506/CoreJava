@@ -18,6 +18,7 @@ public class StarPattern21 {
 			}
 			System.out.println();
 		}
+		sc.close();
 
 	}
 

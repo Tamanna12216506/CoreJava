@@ -18,6 +18,8 @@ public class NeonNumber {
 			sq=sq/10;
 		}
 		System.out.print("Is number is neon : "+(sum==num));
+		sc.close();
+
 	}
 
 }

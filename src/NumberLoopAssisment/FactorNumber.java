@@ -16,6 +16,7 @@ public class FactorNumber {
 			}
 			i++;
 		}
+		sc.close();
 
 	}
 

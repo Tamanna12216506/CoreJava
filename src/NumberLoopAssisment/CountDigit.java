@@ -16,6 +16,8 @@ public class CountDigit {
 			n= n/10;
 		}
 		System.out.print(count);
+		sc.close();
+
 		
 	}
 

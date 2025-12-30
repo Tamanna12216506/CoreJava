@@ -18,6 +18,8 @@ public class StarPattern24 {
 			}
 			System.out.println();
 		}
+		sc.close();
+
 	}
 
 }
