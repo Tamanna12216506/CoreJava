@@ -10,5 +10,14 @@ public class OuterClass {
 			System.out.println("Non-static method");
 		}
 	}
+	class Inner1{
+		void name() {
+			System.out.println("From Inner Class Non-Static method");
+		}
+		static void msg() {
+			System.out.println("From Inner Class Static method");
+
+		}
+	}
 
 }
