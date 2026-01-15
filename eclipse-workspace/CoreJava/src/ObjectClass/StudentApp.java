@@ -6,7 +6,7 @@ public class StudentApp {
 		Student st1 = new Student("Tanu",1);
 		System.out.println(st.equals(st1));
 		System.out.println(st.hashcode()==st1.hashcode());
-		System.out.println(st.getClass());
+		System.out.println(st.getClass().getSimpleName());
 	}
 
 }
