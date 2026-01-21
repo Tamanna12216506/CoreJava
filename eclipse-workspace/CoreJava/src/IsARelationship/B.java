@@ -1,6 +1,9 @@
 package IsARelationship;
 
 public class B extends A{
+	B(){
+		super();
+	}
 	public void display() {
 		System.out.println("Non static varible inherit:" +a);
 	}

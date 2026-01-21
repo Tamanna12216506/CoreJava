@@ -1,4 +1,4 @@
-package StringAssignment;
+package basicStringAssignment;
 
 public class CountWords {
 	public static int countWords(String str) {

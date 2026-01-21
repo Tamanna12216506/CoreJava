@@ -1,4 +1,4 @@
-package StringAssignment;
+package basicStringAssignment;
 
 public class CountCharacter {
 	public static int countChar(String s) {

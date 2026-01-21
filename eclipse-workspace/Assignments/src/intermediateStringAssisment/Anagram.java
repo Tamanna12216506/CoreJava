@@ -1,4 +1,4 @@
-package StringAssignment;
+package intermediateStringAssisment;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package StringAssignment;
+package basicStringAssignment;
 
 import java.util.Scanner;
 
